@@ -1,1 +1,22 @@
-
+#bgvideo
+{
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+#mynavbar a.navbar-brand {
+    color: #fff;
+}
+.jumbotron{
+    margin-top: 100px ;
+    padding: 17px;
+    text-align: center;
+    justify-content:center;
+    background-color: transparent;
+    color: rgba(45, 94, 199, 0.788);
+    }
+    .jumbotron h3
+    {
+        color: rgba(35, 185, 60, 0.774);
+    }
