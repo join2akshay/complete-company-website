@@ -20,3 +20,8 @@
     {
         color: rgba(35, 185, 60, 0.774);
     }
+    .jumbotron .btn
+    {
+        margin-top: 15px;
+        border-radius: 20px;
+    }
