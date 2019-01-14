@@ -25,3 +25,19 @@
         margin-top: 15px;
         border-radius: 20px;
     }
+    img
+    {
+        
+        margin-left: 95px;
+        max-width: 50px;
+        max-height: 50px;
+        margin-bottom: 5px;
+    }
+    span
+    {
+        align-content: center;
+        align-items: center;
+        text-align: center;
+        color: aliceblue;
+        font-size: 20px;
+    }
