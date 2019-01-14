@@ -16,16 +16,16 @@
     background-color: transparent;
     color: rgba(45, 94, 199, 0.788);
     }
-    .jumbotron h3
+.jumbotron h3
     {
         color: rgba(35, 185, 60, 0.774);
     }
-    .jumbotron .btn
+ .jumbotron .btn
     {
         margin-top: 15px;
         border-radius: 20px;
     }
-    img
+ .row img
     {
         
         margin-left: 95px;
@@ -33,11 +33,57 @@
         max-height: 50px;
         margin-bottom: 5px;
     }
-    span
+  span
     {
         align-content: center;
         align-items: center;
         text-align: center;
         color: aliceblue;
         font-size: 20px;
+    }
+ #promise
+    {
+        margin-top: 100px;
+        margin-left: 450px;
+       width: 500px;
+       height: 150px;
+    }
+    footer
+    {
+        background-color: rgba(49, 37, 37, 0.562);
+        color: #fff;
+        padding: 20px;
+
+        margin-top:550px;
+    }
+    #footer a
+    {
+        text-decoration: none;
+    }
+    @media (max-width:750px)
+    {
+        .row img{
+            margin-left:105px;
+        }
+        span{
+            margin-left:75px;
+            font-size:20px;
+        }
+        #promise
+        {
+            margin-top:20px;
+            margin-left:05px;
+            max-width: 300px;
+            max-height: 100px;
+        }
+    footer
+    {
+        
+        padding: 10px;
+        margin-top:350px;
+    }
+    #footer a
+    {
+        text-decoration: none;
+    }
     }
